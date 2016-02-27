@@ -1,0 +1,35 @@
+_repo: Native-Life-in-South-Africa-Before-and-Since-the-European-War-and-the-Boer-Rebellion_1452
+creator:
+  author:
+    agent_name: Plaatje, Sol. T. (Solomon Tshekisho)
+    aliases:
+    - Plaatje, Solomon Tshekisho
+    - Plaatje, Solomon T. (Solomon Tshekisho)
+    birthdate: 1876
+    deathdate: 1932
+    gutenberg_agent_id: '639'
+    url: http://www.gutenberg.org/2009/agents/639
+    wikipedia: http://en.wikipedia.org/wiki/Sol_Plaatje
+description: ''
+gutenberg_bookshelf:
+- Africa
+- South Africa
+gutenberg_issued: '1998-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1452'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Blacks -- South Africa -- Social conditions -- 20th century'
+- !lcsh 'South Africa -- Politics and government -- 1909-1948'
+- !lcsh 'Land tenure -- Law and legislation -- South Africa'
+- !lcsh 'Indigenous peoples -- South Africa -- Social conditions -- 20th century'
+- !lcsh 'South Africa -- Politics and government -- 1836-1909'
+- !lcc 'DT'
+- !lcsh 'South Africa -- History -- Rebellion, 1914-1915'
+title: "Native Life in South Africa\r\nBefore and Since the European War and the Boer\
+  \ Rebellion"
+url: http://www.gutenberg.org/ebooks/1452
