@@ -1,5 +1,5 @@
 _repo: Native-Life-in-South-Africa-Before-and-Since-the-European-War-and-the-Boer-Rebellion_1452
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -36,6 +36,7 @@ subjects:
 - !lcsh 'South Africa -- Politics and government -- 1836-1909'
 - !lcc 'DT'
 - !lcsh 'South Africa -- History -- Rebellion, 1914-1915'
+- GITenberg
 title: "Native Life in South Africa\r\nBefore and Since the European War and the Boer\
   \ Rebellion"
 url: http://www.gutenberg.org/ebooks/1452
